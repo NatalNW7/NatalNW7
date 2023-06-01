@@ -3,8 +3,8 @@
 <center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatalNW&hide=html&layout=compact&theme=dark" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=NatalNW&theme=dark"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatalNW7&hide=html&layout=compact&theme=dark" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=NatalNW7&theme=dark"/></td>
     </tr>   
 </table>
 </center>  
@@ -36,4 +36,4 @@ Hi there! This is my new GitHub Profile. Check my [old profile](https://github.c
 ![React](https://img.shields.io/badge/-React-282c34?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 
-![](https://komarev.com/ghpvc/?username=NatalNW&color=blue&style=flat)
+![](https://komarev.com/ghpvc/?username=NatalNW7&color=blue&style=flat)
