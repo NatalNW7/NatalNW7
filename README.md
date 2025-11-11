@@ -40,7 +40,7 @@ Hi there! This is my new GitHub Profile. Check my [old profile](https://github.c
   * [Credential URL](https://learn.microsoft.com/en-us/users/natanaelweslley-2690/credentials/4659ecdbaaf8c4dd?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 * **[Cloud Practitioner]** (AWS) - [June 19, 2023]
-  * [Credential URL](https://www.credly.com/badges/c964b149-0fe5-4071-97dd-096425feb417/linked_in_profile)
+  * [Credential URL](https://www.credly.com/badges/c964b149-0fe5-4071-97dd-096425feb417)
 
 
 ![](https://komarev.com/ghpvc/?username=NatalNW7&color=blue&style=flat)
