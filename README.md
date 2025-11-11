@@ -27,13 +27,22 @@ Hi there! This is my new GitHub Profile. Check my [old profile](https://github.c
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-3a2a66?style=flat-square&logo=gitlab)
 ![VSCode](https://img.shields.io/badge/-VSCode-0066b8?style=flat-square&logo=visual-studio-code&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript)
 
 ### ⚡ Learning skills
 
-![Django](https://img.shields.io/badge/-Django-339933?style=flat-square&logo=django)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-282c34?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 
+## Certifications
+
+* **[GitHub Actions]** (Microsoft) - [November 8, 2025]
+  * [Credential URL](https://learn.microsoft.com/en-us/users/natanaelweslley-2690/credentials/4659ecdbaaf8c4dd?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+
+* **[Cloud Practitioner]** (AWS) - [June 19, 2023]
+  * [Credential URL](https://www.credly.com/badges/c964b149-0fe5-4071-97dd-096425feb417/linked_in_profile)
+
+
 ![](https://komarev.com/ghpvc/?username=NatalNW7&color=blue&style=flat)
+
+
